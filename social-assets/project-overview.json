@@ -1,0 +1,40 @@
+{
+  "repo": "cdfy.us",
+  "title": "CDFY",
+  "tag": "Affiliate Funnel Review Build",
+  "accent": "#22c55e",
+  "accent2": "#14b8a6",
+  "hook": "A stronger affiliate-style funnel build designed to feel like a modern review and conversion machine rather than a thin promo page.",
+  "sections": [
+    [
+      "01",
+      "Core Offer",
+      "Landing page, checkout review flow, upsell, downsell, offer wall, and placeholder funnel logic."
+    ],
+    [
+      "02",
+      "Problem Solved",
+      "Gives the CDFY concept a clearer monetization path with better sequencing and stronger offer architecture."
+    ],
+    [
+      "03",
+      "Key Assets",
+      "Config-driven flow, clean visuals, review-mode checkout logic, and multi-page conversion structure."
+    ],
+    [
+      "04",
+      "Ideal Buyer",
+      "Affiliate traffic, offer review visitors, and users comparing options before purchase."
+    ],
+    [
+      "05",
+      "Growth Path",
+      "Landing page -> checkout-style decision -> OTOs/downsell -> offer wall -> external monetization link."
+    ],
+    [
+      "06",
+      "Next Expansion",
+      "Swap placeholders for final offers, add real tracking, and tighten proof and comparison sections."
+    ]
+  ]
+}
