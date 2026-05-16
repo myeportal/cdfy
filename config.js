@@ -1,0 +1,1 @@
+window.CDFY_CONFIG={checkout:{main:'#REPLACE_WITH_MAIN_CHECKOUT_URL',upsell:'#REPLACE_WITH_UPSELL_CHECKOUT_URL',downsell:'#REPLACE_WITH_DOWNSELL_CHECKOUT_URL'},offerWall:{main:'offer-wall.html',upsell:'offer-wall.html',downsell:'offer-wall.html'}};
